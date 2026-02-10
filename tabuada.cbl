@@ -1,8 +1,8 @@
       *> ***************************************************************
       *>
-      *> Purpose: Impressão da tabuada com GNUCOBOL
-      *> Tectonics: cobc -x -free tabuada.cbl -o tabuada
-      *> Execution: ./tabuada
+      *> Objetivo: Estudo de Tabuada em GnuCOBOL
+      *> Compilar: cobc -x -free tabuada.cbl -o tabuada
+      *> Executar: ./tabuada
       *>
       *> ***************************************************************
        IDENTIFICATION DIVISION.
